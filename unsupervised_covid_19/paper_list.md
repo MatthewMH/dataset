@@ -5,6 +5,6 @@
 
 | No | Authors | Title | Year | Source | DOI |
 |----|---------|-------|------|--------|-----|
-| 1 | Singh, P., & Seto, M. | Morphological Landmark Detection on Lobsters Using Attention Networks | 2009 | 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC) | [10.1109/SMC.2019.8913995](https://doi.org/10.1109/SMC.2019.8913995) |
-| 2 | Lin, B., Jiang, K., Xu, Z., Li, F., Li, J., Mou, C., Gong, X., & Duan, X. | Feasibility Research on Fish Pose Estimation Based on Rotating Box Object Detection | 2021 | Fishes | [10.3390/fishes6040065](https://doi.org/10.3390/fishes6040065) |
-| 3 | Petrellis, N. | Fish Morphological Feature Recognition Based on Deep Learning Techniques | 2021 | 10th International Conference on Modern Circuits and Systems Technologies (MOCAST) | [10.1109/MOCAST52088.2021.9493407](https://doi.org/10.1109/MOCAST52088.2021.9493407) |
+| 1 | A. Thyagachandran, A. Balachandran, & H. A. Murthy. | Identification and Severity Assessment of COVID-19 Using Lung CT Scans | 2023 | IEEE Access | [10.1109/ACCESS.2023.3330238]([https://doi.org/10.1109/SMC.2019.8913995](https://ieeexplore.ieee.org/document/10309131)) |
+| 2 | I. S. Farahat *et al.* | The Role of 3D CT Imaging in the Accurate Diagnosis of Lung Function in Coronavirus Patients | 2022 | Diagnostics | [10.3390/DIAGNOSTICS12030696](https://doi.org/10.3390/diagnostics12030696) |
+| 3 | R. Xu *et al.* | Pixel-Level and Affinity-Level Knowledge Distillation for Unsupervised Segmentation of Covid-19 Lesions | 2022 | ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | [10.1109/ICASSP43922.2022.9746715](https://ieeexplore.ieee.org/document/9746715) |
